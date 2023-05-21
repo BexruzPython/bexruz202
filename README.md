@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WnywLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbLlhSu2SDj_Mig8SxJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bexruznabiyev.io)
 <h1 align="center">Welcome to my page🤍💎</h1>
-<h3 align="center">I Live in Uzbekistan (Samarkand)</h3>
+<h3 align="center">opened at 2022</h3>
 <img align="right" alt="Coding" width="400  src="https://cdn.dribble.com/users/1162077/screenshots/384914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bexruz202&label=Profile%20views&color=0e75b6&style=flat" alt="bexruz202" /> </p>
@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [@bexruz202](@bexruz202)
 
-- 💬 Ask me about: **I am 15, My first name:Bexruz , Last name:Nabiyev , I am programmer(Python php and JavaScript),Where I Beat :IT Park, My Goal is :Find a Great Developer**
+- 💬 Ask me about: **I am 16✅
+                     skills: pyrogram💎 , aiogram💎 , postgresql💎
+                     
 
 - 📫 How to reach me **bexruznabiyev05@gmail.com**
 
